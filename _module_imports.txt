@@ -1,0 +1,9 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { ItinerarysModule } from './modules/itineraries/itineraries.module';
+import { BudgetsModule } from './modules/budgets/budgets.module';
+import { CollaboratorsModule } from './modules/collaborators/collaborators.module';
+
+// Add to @Module imports array:
+// ItinerarysModule,
+// BudgetsModule,
+// CollaboratorsModule
